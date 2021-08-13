@@ -1,0 +1,15 @@
+
+.mobile_icon {
+  position: absolute;
+  z-index:3;
+  right: 30px;
+  top: 15px;
+}
+
+#bar {
+  width :33px;
+  height:6px;
+  background: linear-gradient(to left, #555 0%, #fff 50%, #555 100%);
+  margin: 5px 0;
+  border-radius: 4px;
+}

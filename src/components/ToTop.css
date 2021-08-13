@@ -1,0 +1,19 @@
+
+.toTop {
+  position: fixed;
+  text-align:center;
+  bottom: 0;
+  right: 15px;
+  max-width: 75px;
+  max-height: 75px;
+  border-radius: 25px;
+  z-index: 7;
+}
+
+.toTopIcon{
+  width:60px;
+}
+
+.toTop:hover{
+  background: #134e7e;
+}

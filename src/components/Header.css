@@ -1,0 +1,15 @@
+
+.videoStyle {
+  width: 100%;
+  max-height: 650px;
+  object-fit: cover;
+}
+
+#headerText {
+  position: fixed;
+  text-align:center;
+  color:#fff;
+  left: 200px;
+  margin-top: -350px;
+  font-size: 1.8rem;
+}
