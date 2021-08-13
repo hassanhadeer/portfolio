@@ -10,7 +10,7 @@ import JustMath from '../images/JustMath.png';
 const Apps = () => {
   return (
     <div id="Apps" class="appsStyle">
-      <h3>Some of my works</h3><br /><br />
+      <h3>Some of my works</h3>
 
       <div class="card">
         <div class="cardImage">

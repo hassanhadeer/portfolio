@@ -3,8 +3,8 @@
   width:100%;
   padding-left: 20%;
   padding-right: 20%;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: #fff;
   text-align: center;
   background:#27096d;  /* fallback for old browsers */
@@ -33,5 +33,25 @@
   .d-block {
     width:100%;
     padding: 0;
+  }
+}
+
+@media screen and  (max-width: 600px){
+
+  .SoftwareStyle {
+    padding-left: 10%;
+    padding-right: 10%; 
+  }
+  
+  .carousel-inner {
+    border-radius: 8px;
+    border: 1px solid #a9a4aa;
+    box-shadow: 2px 2px 5px #ccc;
+  }
+  
+  .d-block {
+    width:80%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }

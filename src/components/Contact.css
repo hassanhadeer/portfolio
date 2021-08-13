@@ -29,3 +29,26 @@
   text-align: left;
   margin-left: 12%;
 }
+
+@media screen and (max-width: 600px) {
+
+  .contactStyle {
+    height: 550px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;    
+  }
+  
+  .map {
+    width: 80%;
+    float: center;
+    text-align: center;
+  }
+  
+  .contactDetails{
+    margin-top: 10px;
+    width: 80%;
+    float: center;
+    text-align: center;
+  }
+}
